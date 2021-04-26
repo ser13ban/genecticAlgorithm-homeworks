@@ -1,0 +1,7 @@
+﻿  Tema0[AG].cpp
+C:\Users\PC\Desktop\Tema0[AG]\Tema0[AG]\Tema0[AG].cpp(36,39): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\PC\Desktop\Tema0[AG]\Tema0[AG]\Tema0[AG].cpp(36,36): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\PC\Desktop\Tema0[AG]\Tema0[AG]\Tema0[AG].cpp(45,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\Tema0[AG]\Tema0[AG]\Tema0[AG].cpp(46,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\Tema0[AG]\Tema0[AG]\Tema0[AG].cpp(73,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tema0[AG].vcxproj -> C:\Users\PC\Desktop\Tema0[AG]\Debug\Tema0[AG].exe
