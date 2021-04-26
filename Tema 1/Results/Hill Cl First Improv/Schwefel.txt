@@ -1,0 +1,273 @@
+Schwefel n=5
+The iteration: 0
+	With the result: -2367.48
+			tooked: 3 seconds
+The iteration: 1
+	With the result: -2208.64
+			tooked: 3 seconds
+The iteration: 2
+	With the result: -2161.27
+			tooked: 3 seconds
+The iteration: 3
+	With the result: -2237.89
+			tooked: 3 seconds
+The iteration: 4
+	With the result: -2185.66
+			tooked: 3 seconds
+The iteration: 5
+	With the result: -2220.42
+			tooked: 3 seconds
+The iteration: 6
+	With the result: -2148.7
+			tooked: 3 seconds
+The iteration: 7
+	With the result: -2231.25
+			tooked: 3 seconds
+The iteration: 8
+	With the result: -2178.44
+			tooked: 3 seconds
+The iteration: 9
+	With the result: -2178.47
+			tooked: 3 seconds
+The iteration: 10
+	With the result: -2234.79
+			tooked: 3 seconds
+The iteration: 11
+	With the result: -2248.71
+			tooked: 3 seconds
+The iteration: 12
+	With the result: -2188.06
+			tooked: 3 seconds
+The iteration: 13
+	With the result: -2210.97
+			tooked: 3 seconds
+The iteration: 14
+	With the result: -2154.88
+			tooked: 3 seconds
+The iteration: 15
+	With the result: -2201.94
+			tooked: 3 seconds
+The iteration: 16
+	With the result: -2133.91
+			tooked: 3 seconds
+The iteration: 17
+	With the result: -2233.13
+			tooked: 3 seconds
+The iteration: 18
+	With the result: -2198.89
+			tooked: 3 seconds
+The iteration: 19
+	With the result: -2208.74
+			tooked: 3 seconds
+The iteration: 20
+	With the result: -2416.19
+			tooked: 3 seconds
+The iteration: 21
+	With the result: -2244.59
+			tooked: 3 seconds
+The iteration: 22
+	With the result: -2197.52
+			tooked: 3 seconds
+The iteration: 23
+	With the result: -2324.43
+			tooked: 3 seconds
+The iteration: 24
+	With the result: -2189.23
+			tooked: 3 seconds
+The iteration: 25
+	With the result: -2245.38
+			tooked: 3 seconds
+The iteration: 26
+	With the result: -2245.64
+			tooked: 3 seconds
+The iteration: 27
+	With the result: -2263.46
+			tooked: 3 seconds
+The iteration: 28
+	With the result: -2302.41
+			tooked: 3 seconds
+The iteration: 29
+	With the result: -2258.13
+			tooked: 3 seconds
+Schwefel n=10
+The iteration: 0
+	With the result: -3312.59
+			tooked: 6 seconds
+The iteration: 1
+	With the result: -3651.11
+			tooked: 6 seconds
+The iteration: 2
+	With the result: -3514.89
+			tooked: 6 seconds
+The iteration: 3
+	With the result: -3567.16
+			tooked: 6 seconds
+The iteration: 4
+	With the result: -3335.51
+			tooked: 6 seconds
+The iteration: 5
+	With the result: -3531.98
+			tooked: 6 seconds
+The iteration: 6
+	With the result: -3289.84
+			tooked: 6 seconds
+The iteration: 7
+	With the result: -3244.16
+			tooked: 6 seconds
+The iteration: 8
+	With the result: -3269.5
+			tooked: 6 seconds
+The iteration: 9
+	With the result: -3653.06
+			tooked: 6 seconds
+The iteration: 10
+	With the result: -3630.72
+			tooked: 6 seconds
+The iteration: 11
+	With the result: -3869.41
+			tooked: 6 seconds
+The iteration: 12
+	With the result: -3359.52
+			tooked: 6 seconds
+The iteration: 13
+	With the result: -3185.52
+			tooked: 6 seconds
+The iteration: 14
+	With the result: -3556.04
+			tooked: 6 seconds
+The iteration: 15
+	With the result: -3223.84
+			tooked: 6 seconds
+The iteration: 16
+	With the result: -3266.75
+			tooked: 6 seconds
+The iteration: 17
+	With the result: -4071.31
+			tooked: 6 seconds
+The iteration: 18
+	With the result: -3538.67
+			tooked: 6 seconds
+The iteration: 19
+	With the result: -3328.49
+			tooked: 6 seconds
+The iteration: 20
+	With the result: -3321.7
+			tooked: 6 seconds
+The iteration: 21
+	With the result: -3390.67
+			tooked: 6 seconds
+The iteration: 22
+	With the result: -3548.57
+			tooked: 6 seconds
+The iteration: 23
+	With the result: -3226.94
+			tooked: 6 seconds
+The iteration: 24
+	With the result: -3321.7
+			tooked: 6 seconds
+The iteration: 25
+	With the result: -3604.75
+			tooked: 6 seconds
+The iteration: 26
+	With the result: -3221.36
+			tooked: 6 seconds
+The iteration: 27
+	With the result: -3433.01
+			tooked: 6 seconds
+The iteration: 28
+	With the result: -3305.27
+			tooked: 6 seconds
+The iteration: 29
+	With the result: -3337.28
+			tooked: 6 seconds
+Schwefel n=30
+The iteration: 0
+	With the result: -5563.59
+			tooked: 19 seconds
+The iteration: 1
+	With the result: -6139.7
+			tooked: 19 seconds
+The iteration: 2
+	With the result: -6216.59
+			tooked: 19 seconds
+The iteration: 3
+	With the result: -6170.31
+			tooked: 19 seconds
+The iteration: 4
+	With the result: -6068.42
+			tooked: 19 seconds
+The iteration: 5
+	With the result: -6249.28
+			tooked: 19 seconds
+The iteration: 6
+	With the result: -6184.1
+			tooked: 19 seconds
+The iteration: 7
+	With the result: -6261.58
+			tooked: 19 seconds
+The iteration: 8
+	With the result: -5877.19
+			tooked: 19 seconds
+The iteration: 9
+	With the result: -5817.6
+			tooked: 19 seconds
+The iteration: 10
+	With the result: -6513.77
+			tooked: 19 seconds
+The iteration: 11
+	With the result: -6055.63
+			tooked: 19 seconds
+The iteration: 12
+	With the result: -5985.71
+			tooked: 18 seconds
+The iteration: 13
+	With the result: -6091.1
+			tooked: 19 seconds
+The iteration: 14
+	With the result: -6030.65
+			tooked: 19 seconds
+The iteration: 15
+	With the result: -5841.99
+			tooked: 19 seconds
+The iteration: 16
+	With the result: -6148.01
+			tooked: 19 seconds
+The iteration: 17
+	With the result: -6106.34
+			tooked: 19 seconds
+The iteration: 18
+	With the result: -5711.6
+			tooked: 19 seconds
+The iteration: 19
+	With the result: -6651.41
+			tooked: 19 seconds
+The iteration: 20
+	With the result: -5948.98
+			tooked: 19 seconds
+The iteration: 21
+	With the result: -5717.34
+			tooked: 19 seconds
+The iteration: 22
+	With the result: -6255.72
+			tooked: 19 seconds
+The iteration: 23
+	With the result: -6337.7
+			tooked: 19 seconds
+The iteration: 24
+	With the result: -5749.83
+			tooked: 20 seconds
+The iteration: 25
+	With the result: -6024.19
+			tooked: 20 seconds
+The iteration: 26
+	With the result: -5892.39
+			tooked: 20 seconds
+The iteration: 27
+	With the result: -6278.63
+			tooked: 20 seconds
+The iteration: 28
+	With the result: -6336.93
+			tooked: 20 seconds
+The iteration: 29
+	With the result: -6524.68
+			tooked: 20 seconds

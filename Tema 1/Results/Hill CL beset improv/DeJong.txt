@@ -1,0 +1,211 @@
+DEJONG n=5
+The iteration: 0
+	With the result: 0.420792
+			tooked: 37 seconds
+The iteration: 1
+	With the result: 0.482352
+			tooked: 34 seconds
+The iteration: 2
+	With the result: 0.270045
+			tooked: 36 seconds
+The iteration: 3
+	With the result: 0.358831
+			tooked: 35 seconds
+The iteration: 4
+	With the result: 0.355128
+			tooked: 34 seconds
+The iteration: 5
+	With the result: 0.401723
+			tooked: 34 seconds
+The iteration: 6
+	With the result: 0.22385
+			tooked: 34 seconds
+The iteration: 7
+	With the result: 0.464835
+			tooked: 34 seconds
+The iteration: 8
+	With the result: 0.0907699
+			tooked: 34 seconds
+The iteration: 9
+	With the result: 0.0884675
+			tooked: 34 seconds
+The iteration: 10
+	With the result: 0.382004
+			tooked: 34 seconds
+The iteration: 11
+	With the result: 0.393816
+			tooked: 34 seconds
+The iteration: 12
+	With the result: 0.1219
+			tooked: 34 seconds
+The iteration: 13
+	With the result: 0.600017
+			tooked: 33 seconds
+The iteration: 14
+	With the result: 0.259685
+			tooked: 33 seconds
+The iteration: 15
+	With the result: 0.355128
+			tooked: 33 seconds
+The iteration: 16
+	With the result: 0.467888
+			tooked: 34 seconds
+The iteration: 17
+	With the result: 0.0814609
+			tooked: 34 seconds
+The iteration: 18
+	With the result: 0.354527
+			tooked: 34 seconds
+The iteration: 19
+	With the result: 0.294168
+			tooked: 35 seconds
+The iteration: 20
+	With the result: 0.188665
+			tooked: 35 seconds
+The iteration: 21
+	With the result: 0.427649
+			tooked: 35 seconds
+The iteration: 22
+	With the result: 0.488708
+			tooked: 35 seconds
+The iteration: 23
+	With the result: 0.442413
+			tooked: 35 seconds
+The iteration: 24
+	With the result: 0.611428
+			tooked: 35 seconds
+The iteration: 25
+	With the result: 0.151329
+			tooked: 35 seconds
+The iteration: 26
+	With the result: 0.110389
+			tooked: 35 seconds
+The iteration: 27
+	With the result: 0.260135
+			tooked: 35 seconds
+The iteration: 28
+	With the result: 0.397969
+			tooked: 35 seconds
+The iteration: 29
+	With the result: 0.599166
+			tooked: 35 seconds
+DEJONG n=10
+The iteration: 0
+	With the result: 4.07634
+			tooked: 119 seconds
+The iteration: 1
+	With the result: 6.46172
+			tooked: 122 seconds
+The iteration: 2
+	With the result: 6.42804
+			tooked: 124 seconds
+The iteration: 3
+	With the result: 6.26558
+			tooked: 128 seconds
+The iteration: 4
+	With the result: 6.45767
+			tooked: 131 seconds
+The iteration: 5
+	With the result: 6.66532
+			tooked: 130 seconds
+The iteration: 6
+	With the result: 5.06165
+			tooked: 128 seconds
+The iteration: 7
+	With the result: 5.54583
+			tooked: 129 seconds
+The iteration: 8
+	With the result: 5.80318
+			tooked: 129 seconds
+The iteration: 9
+	With the result: 7.56369
+			tooked: 129 seconds
+The iteration: 10
+	With the result: 2.85585
+			tooked: 127 seconds
+The iteration: 11
+	With the result: 6.07709
+			tooked: 130 seconds
+The iteration: 12
+	With the result: 7.79748
+			tooked: 128 seconds
+The iteration: 13
+	With the result: 5.57631
+			tooked: 131 seconds
+The iteration: 14
+	With the result: 5.85322
+			tooked: 131 seconds
+The iteration: 15
+	With the result: 7.95948
+			tooked: 131 seconds
+The iteration: 16
+	With the result: 7.3623
+			tooked: 130 seconds
+The iteration: 17
+	With the result: 5.17431
+			tooked: 130 seconds
+The iteration: 18
+	With the result: 8.95095
+			tooked: 130 seconds
+The iteration: 19
+	With the result: 10.1747
+			tooked: 131 seconds
+The iteration: 20
+	With the result: 5.55609
+			tooked: 131 seconds
+The iteration: 21
+	With the result: 7.29398
+			tooked: 131 seconds
+The iteration: 22
+	With the result: 6.25592
+			tooked: 131 seconds
+The iteration: 23
+	With the result: 6.14586
+			tooked: 131 seconds
+The iteration: 24
+	With the result: 5.30024
+			tooked: 130 seconds
+The iteration: 25
+	With the result: 5.83356
+			tooked: 131 seconds
+The iteration: 26
+	With the result: 5.22201
+			tooked: 131 seconds
+The iteration: 27
+	With the result: 5.30729
+			tooked: 131 seconds
+The iteration: 28
+	With the result: 9.31546
+			tooked: 131 seconds
+The iteration: 29
+	With the result: 7.616
+			tooked: 131 seconds
+DEJONG n=30
+The iteration: 0
+	With the result: 80.7676
+			tooked: 1041 seconds
+The iteration: 1
+	With the result: 101.203
+			tooked: 1046 seconds
+The iteration: 2
+	With the result: 99.3346
+			tooked: 1045 seconds
+The iteration: 3
+	With the result: 95.0039
+			tooked: 1050 seconds
+The iteration: 4
+	With the result: 97.316
+			tooked: 1049 seconds
+The iteration: 5
+	With the result: 95.9822
+			tooked: 1050 seconds
+The iteration: 6
+	With the result: 98.4911
+			tooked: 1051 seconds
+The iteration: 7
+	With the result: 91.0209
+			tooked: 1052 seconds
+The iteration: 8
+	With the result: 101.226
+			tooked: 1049 seconds
+The iteration: 9

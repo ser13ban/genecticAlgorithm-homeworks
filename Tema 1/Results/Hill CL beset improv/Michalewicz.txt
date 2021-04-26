@@ -1,0 +1,273 @@
+ Michalewicz n=5
+The iteration: 0
+	With the result: -3.56236
+			tooked: 50 seconds
+The iteration: 1
+	With the result: -3.53559
+			tooked: 49 seconds
+The iteration: 2
+	With the result: -3.50253
+			tooked: 48 seconds
+The iteration: 3
+	With the result: -3.42956
+			tooked: 49 seconds
+The iteration: 4
+	With the result: -3.46185
+			tooked: 49 seconds
+The iteration: 5
+	With the result: -3.38784
+			tooked: 49 seconds
+The iteration: 6
+	With the result: -3.51284
+			tooked: 49 seconds
+The iteration: 7
+	With the result: -3.45572
+			tooked: 49 seconds
+The iteration: 8
+	With the result: -3.43594
+			tooked: 48 seconds
+The iteration: 9
+	With the result: -3.53468
+			tooked: 49 seconds
+The iteration: 10
+	With the result: -3.31662
+			tooked: 49 seconds
+The iteration: 11
+	With the result: -3.35592
+			tooked: 48 seconds
+The iteration: 12
+	With the result: -3.45479
+			tooked: 48 seconds
+The iteration: 13
+	With the result: -3.34737
+			tooked: 48 seconds
+The iteration: 14
+	With the result: -3.26579
+			tooked: 48 seconds
+The iteration: 15
+	With the result: -3.44384
+			tooked: 48 seconds
+The iteration: 16
+	With the result: -3.29127
+			tooked: 49 seconds
+The iteration: 17
+	With the result: -3.49864
+			tooked: 48 seconds
+The iteration: 18
+	With the result: -3.47069
+			tooked: 49 seconds
+The iteration: 19
+	With the result: -3.59265
+			tooked: 48 seconds
+The iteration: 20
+	With the result: -3.43833
+			tooked: 48 seconds
+The iteration: 21
+	With the result: -3.44267
+			tooked: 49 seconds
+The iteration: 22
+	With the result: -3.50884
+			tooked: 48 seconds
+The iteration: 23
+	With the result: -3.62256
+			tooked: 48 seconds
+The iteration: 24
+	With the result: -3.30024
+			tooked: 48 seconds
+The iteration: 25
+	With the result: -3.54595
+			tooked: 48 seconds
+The iteration: 26
+	With the result: -3.43738
+			tooked: 48 seconds
+The iteration: 27
+	With the result: -3.65369
+			tooked: 48 seconds
+The iteration: 28
+	With the result: -3.61158
+			tooked: 48 seconds
+The iteration: 29
+	With the result: -3.58692
+			tooked: 48 seconds
+ Michalewicz n=10
+The iteration: 0
+	With the result: -5.80335
+			tooked: 179 seconds
+The iteration: 1
+	With the result: -5.16596
+			tooked: 179 seconds
+The iteration: 2
+	With the result: -5.70378
+			tooked: 178 seconds
+The iteration: 3
+	With the result: -5.35409
+			tooked: 179 seconds
+The iteration: 4
+	With the result: -6.05056
+			tooked: 178 seconds
+The iteration: 5
+	With the result: -5.43511
+			tooked: 178 seconds
+The iteration: 6
+	With the result: -5.26845
+			tooked: 180 seconds
+The iteration: 7
+	With the result: -5.32191
+			tooked: 179 seconds
+The iteration: 8
+	With the result: -5.20641
+			tooked: 179 seconds
+The iteration: 9
+	With the result: -5.1366
+			tooked: 179 seconds
+The iteration: 10
+	With the result: -5.18821
+			tooked: 179 seconds
+The iteration: 11
+	With the result: -5.16159
+			tooked: 179 seconds
+The iteration: 12
+	With the result: -5.87683
+			tooked: 178 seconds
+The iteration: 13
+	With the result: -5.37746
+			tooked: 179 seconds
+The iteration: 14
+	With the result: -5.1239
+			tooked: 179 seconds
+The iteration: 15
+	With the result: -5.36656
+			tooked: 178 seconds
+The iteration: 16
+	With the result: -5.07879
+			tooked: 179 seconds
+The iteration: 17
+	With the result: -5.34109
+			tooked: 179 seconds
+The iteration: 18
+	With the result: -5.15492
+			tooked: 179 seconds
+The iteration: 19
+	With the result: -5.14405
+			tooked: 178 seconds
+The iteration: 20
+	With the result: -5.02195
+			tooked: 179 seconds
+The iteration: 21
+	With the result: -4.94647
+			tooked: 179 seconds
+The iteration: 22
+	With the result: -5.37104
+			tooked: 179 seconds
+The iteration: 23
+	With the result: -5.07089
+			tooked: 180 seconds
+The iteration: 24
+	With the result: -5.44481
+			tooked: 179 seconds
+The iteration: 25
+	With the result: -5.31515
+			tooked: 179 seconds
+The iteration: 26
+	With the result: -5.76776
+			tooked: 179 seconds
+The iteration: 27
+	With the result: -4.76656
+			tooked: 179 seconds
+The iteration: 28
+	With the result: -4.83847
+			tooked: 179 seconds
+The iteration: 29
+	With the result: -4.94365
+			tooked: 178 seconds
+ Michalewicz n=30
+The iteration: 0
+	With the result: -10.3898
+			tooked: 1502 seconds
+The iteration: 1
+	With the result: -10.3583
+			tooked: 1497 seconds
+The iteration: 2
+	With the result: -10.5983
+			tooked: 1496 seconds
+The iteration: 3
+	With the result: -9.47721
+			tooked: 1493 seconds
+The iteration: 4
+	With the result: -9.95495
+			tooked: 1495 seconds
+The iteration: 5
+	With the result: -9.96009
+			tooked: 1494 seconds
+The iteration: 6
+	With the result: -10.1671
+			tooked: 1497 seconds
+The iteration: 7
+	With the result: -9.78175
+			tooked: 1524 seconds
+The iteration: 8
+	With the result: -9.82576
+			tooked: 1528 seconds
+The iteration: 9
+	With the result: -10.0001
+			tooked: 1501 seconds
+The iteration: 10
+	With the result: -10.0285
+			tooked: 1503 seconds
+The iteration: 11
+	With the result: -10.0261
+			tooked: 1502 seconds
+The iteration: 12
+	With the result: -9.52694
+			tooked: 1501 seconds
+The iteration: 13
+	With the result: -9.29271
+			tooked: 1505 seconds
+The iteration: 14
+	With the result: -9.6744
+			tooked: 1502 seconds
+The iteration: 15
+	With the result: -9.81123
+			tooked: 1509 seconds
+The iteration: 16
+	With the result: -10.5001
+			tooked: 1505 seconds
+The iteration: 17
+	With the result: -9.17969
+			tooked: 1504 seconds
+The iteration: 18
+	With the result: -10.2191
+			tooked: 1504 seconds
+The iteration: 19
+	With the result: -9.85564
+			tooked: 1503 seconds
+The iteration: 20
+	With the result: -9.867
+			tooked: 1511 seconds
+The iteration: 21
+	With the result: -9.23831
+			tooked: 1501 seconds
+The iteration: 22
+	With the result: -9.49055
+			tooked: 1500 seconds
+The iteration: 23
+	With the result: -9.67706
+			tooked: 1500 seconds
+The iteration: 24
+	With the result: -9.99207
+			tooked: 1501 seconds
+The iteration: 25
+	With the result: -9.25021
+			tooked: 1501 seconds
+The iteration: 26
+	With the result: -10.5696
+			tooked: 1498 seconds
+The iteration: 27
+	With the result: -9.35584
+			tooked: 1500 seconds
+The iteration: 28
+	With the result: -10.0509
+			tooked: 1498 seconds
+The iteration: 29
+	With the result: -10.0217
+			tooked: 1498 seconds

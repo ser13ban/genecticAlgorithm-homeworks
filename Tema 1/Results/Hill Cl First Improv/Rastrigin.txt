@@ -1,0 +1,273 @@
+Rastrigin n=5
+The iteration: 0
+	With the result: 12.3492
+			tooked: 2 seconds
+The iteration: 1
+	With the result: 17.1153
+			tooked: 2 seconds
+The iteration: 2
+	With the result: 13.3524
+			tooked: 2 seconds
+The iteration: 3
+	With the result: 14.2501
+			tooked: 2 seconds
+The iteration: 4
+	With the result: 13.4418
+			tooked: 2 seconds
+The iteration: 5
+	With the result: 12.8281
+			tooked: 2 seconds
+The iteration: 6
+	With the result: 16.8443
+			tooked: 2 seconds
+The iteration: 7
+	With the result: 18.3322
+			tooked: 2 seconds
+The iteration: 8
+	With the result: 16.7047
+			tooked: 2 seconds
+The iteration: 9
+	With the result: 11.2176
+			tooked: 2 seconds
+The iteration: 10
+	With the result: 20.314
+			tooked: 2 seconds
+The iteration: 11
+	With the result: 10.2171
+			tooked: 2 seconds
+The iteration: 12
+	With the result: 16.2567
+			tooked: 2 seconds
+The iteration: 13
+	With the result: 12.3077
+			tooked: 2 seconds
+The iteration: 14
+	With the result: 13.2629
+			tooked: 2 seconds
+The iteration: 15
+	With the result: 9.64039
+			tooked: 2 seconds
+The iteration: 16
+	With the result: 14.6613
+			tooked: 2 seconds
+The iteration: 17
+	With the result: 12.6849
+			tooked: 2 seconds
+The iteration: 18
+	With the result: 12.182
+			tooked: 2 seconds
+The iteration: 19
+	With the result: 11.4868
+			tooked: 2 seconds
+The iteration: 20
+	With the result: 9.47665
+			tooked: 2 seconds
+The iteration: 21
+	With the result: 10.2402
+			tooked: 2 seconds
+The iteration: 22
+	With the result: 15.5782
+			tooked: 2 seconds
+The iteration: 23
+	With the result: 12.5161
+			tooked: 2 seconds
+The iteration: 24
+	With the result: 13.5836
+			tooked: 2 seconds
+The iteration: 25
+	With the result: 15.536
+			tooked: 2 seconds
+The iteration: 26
+	With the result: 13.1837
+			tooked: 2 seconds
+The iteration: 27
+	With the result: 17.0325
+			tooked: 2 seconds
+The iteration: 28
+	With the result: 11.3036
+			tooked: 2 seconds
+The iteration: 29
+	With the result: 9.62283
+			tooked: 2 seconds
+Rastrigin n=10
+The iteration: 0
+	With the result: 68.4366
+			tooked: 5 seconds
+The iteration: 1
+	With the result: 53.6711
+			tooked: 5 seconds
+The iteration: 2
+	With the result: 72.8377
+			tooked: 5 seconds
+The iteration: 3
+	With the result: 65.5384
+			tooked: 5 seconds
+The iteration: 4
+	With the result: 73.507
+			tooked: 5 seconds
+The iteration: 5
+	With the result: 70.1688
+			tooked: 5 seconds
+The iteration: 6
+	With the result: 54.3441
+			tooked: 5 seconds
+The iteration: 7
+	With the result: 69.5901
+			tooked: 5 seconds
+The iteration: 8
+	With the result: 62.0372
+			tooked: 5 seconds
+The iteration: 9
+	With the result: 68.9894
+			tooked: 5 seconds
+The iteration: 10
+	With the result: 68.8436
+			tooked: 5 seconds
+The iteration: 11
+	With the result: 62.5593
+			tooked: 5 seconds
+The iteration: 12
+	With the result: 63.3499
+			tooked: 5 seconds
+The iteration: 13
+	With the result: 64.9913
+			tooked: 5 seconds
+The iteration: 14
+	With the result: 50.6133
+			tooked: 5 seconds
+The iteration: 15
+	With the result: 70.0137
+			tooked: 5 seconds
+The iteration: 16
+	With the result: 69.1783
+			tooked: 5 seconds
+The iteration: 17
+	With the result: 69.1806
+			tooked: 5 seconds
+The iteration: 18
+	With the result: 57.056
+			tooked: 5 seconds
+The iteration: 19
+	With the result: 71.033
+			tooked: 5 seconds
+The iteration: 20
+	With the result: 65.8664
+			tooked: 5 seconds
+The iteration: 21
+	With the result: 65.2196
+			tooked: 5 seconds
+The iteration: 22
+	With the result: 67.4744
+			tooked: 5 seconds
+The iteration: 23
+	With the result: 68.0192
+			tooked: 5 seconds
+The iteration: 24
+	With the result: 70.363
+			tooked: 5 seconds
+The iteration: 25
+	With the result: 62.5711
+			tooked: 5 seconds
+The iteration: 26
+	With the result: 67.2347
+			tooked: 5 seconds
+The iteration: 27
+	With the result: 76.5831
+			tooked: 5 seconds
+The iteration: 28
+	With the result: 71.9697
+			tooked: 5 seconds
+The iteration: 29
+	With the result: 60.8706
+			tooked: 5 seconds
+Rastrigin n=30
+The iteration: 0
+	With the result: 324.97
+			tooked: 16 seconds
+The iteration: 1
+	With the result: 346.463
+			tooked: 16 seconds
+The iteration: 2
+	With the result: 333.2
+			tooked: 16 seconds
+The iteration: 3
+	With the result: 339.018
+			tooked: 15 seconds
+The iteration: 4
+	With the result: 363.735
+			tooked: 15 seconds
+The iteration: 5
+	With the result: 331.824
+			tooked: 16 seconds
+The iteration: 6
+	With the result: 332.087
+			tooked: 16 seconds
+The iteration: 7
+	With the result: 346.216
+			tooked: 16 seconds
+The iteration: 8
+	With the result: 319.859
+			tooked: 16 seconds
+The iteration: 9
+	With the result: 344.416
+			tooked: 16 seconds
+The iteration: 10
+	With the result: 344.51
+			tooked: 16 seconds
+The iteration: 11
+	With the result: 350.468
+			tooked: 16 seconds
+The iteration: 12
+	With the result: 336.252
+			tooked: 16 seconds
+The iteration: 13
+	With the result: 347.234
+			tooked: 15 seconds
+The iteration: 14
+	With the result: 315.718
+			tooked: 16 seconds
+The iteration: 15
+	With the result: 330.714
+			tooked: 15 seconds
+The iteration: 16
+	With the result: 337.535
+			tooked: 15 seconds
+The iteration: 17
+	With the result: 342.011
+			tooked: 16 seconds
+The iteration: 18
+	With the result: 334.265
+			tooked: 16 seconds
+The iteration: 19
+	With the result: 354.189
+			tooked: 16 seconds
+The iteration: 20
+	With the result: 329.106
+			tooked: 15 seconds
+The iteration: 21
+	With the result: 324.234
+			tooked: 15 seconds
+The iteration: 22
+	With the result: 331.357
+			tooked: 16 seconds
+The iteration: 23
+	With the result: 352.817
+			tooked: 15 seconds
+The iteration: 24
+	With the result: 344.796
+			tooked: 15 seconds
+The iteration: 25
+	With the result: 341.339
+			tooked: 16 seconds
+The iteration: 26
+	With the result: 348.483
+			tooked: 15 seconds
+The iteration: 27
+	With the result: 342.308
+			tooked: 16 seconds
+The iteration: 28
+	With the result: 348.005
+			tooked: 16 seconds
+The iteration: 29
+	With the result: 351.117
+			tooked: 16 seconds
