@@ -1,0 +1,12 @@
+Wheel selection:
+https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_parent_selection.htm
+Youtube:
+https://www.youtube.com/watch?v=tvau83TYOak&t=133s
+struct contructor:
+https://stackoverflow.com/questions/1127396/struct-constructor-in-c
+pagina profului:
+https://profs.info.uaic.ro/~eugennc/teaching/ga/#Notions04
+
+
+mai cauti si tu cateva articole stiintifice pe tema asta ca sa iti faci o idee si cas a te poti apuca de
+raport cum trebuie.
